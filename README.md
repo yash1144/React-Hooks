@@ -1,8 +1,31 @@
-# React + Vite
+# React-Hooks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React project using Vite for fast development and HMR.
 
-Currently, two official plugins are available:
+## Features
+- React + Vite with HMR
+- ESLint for code consistency
+- Babel or SWC for fast refresh
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+```bash
+git clone https://github.com/yash1144/React-Hooks.git
+cd React-Hooks
+npm install
+```
+
+## Usage
+Start the development server:
+```bash
+npm run dev
+```
+
+Build for production:
+```bash
+npm run build
+```
+
+## License
+MIT License  
+
+---
